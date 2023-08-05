@@ -1,0 +1,1 @@
+/* empty css                                                            */import{_ as e,o as s,c as a,t as o}from"./index-1d5f5eb5.js";const c=["disabled"],n={__name:"Btn",props:["text","disabled"],setup(t){return(d,r)=>(s(),a("button",{disabled:t.disabled==""},o(t.text),9,c))}},l=e(n,[["__scopeId","data-v-fa36b25b"]]);export{l as B};

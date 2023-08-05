@@ -1,0 +1,1 @@
+.edit{cursor:pointer}.edit-content{display:flex;align-items:center;gap:10px;color:#010e52;font-size:18px;font-weight:700}.edit-svg.another{display:none}@media screen and (max-width: 650px){.edit-svg.another{display:block}.edit-content{display:none}}
